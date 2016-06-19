@@ -1,4 +1,4 @@
-thickness = 3;
+thickness = 9;
 outside_radius = 8;
 separation = 29;
 spacing = 25;
